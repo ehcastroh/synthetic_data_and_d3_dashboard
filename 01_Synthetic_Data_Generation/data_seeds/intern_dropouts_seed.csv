@@ -1,0 +1,11 @@
+Distance,GPA,Class,Gender,Ethnicity,Low-income,Sector,Churned
+5,3.2,Sophomore,Female,Black,Yes,Arts,0
+4,3.8,Freshman,Male,Caucasian,No,Social rights,0
+8,3.4,Sophomore,Male,Asian,No,Elderly care,0
+13,3.5,Senior,Female,Caucasian,Yes,Environment,1
+9,2.8,Junior,Male,Middle Eastern,No,Health,0
+10,3.3,Freshman,Female,Hispanic,No,Animals,0
+2,3.6,Sophomore,Female,Caucasian,No,Education,1
+4,3,Junior,Male,Black,Yes,Social rights,0
+6,3.3,Junior,Female,Caucasian,No,Homelessness,0
+12,3.2,Freshman,Male,Middle Eastern,Yes,Special needs,1
